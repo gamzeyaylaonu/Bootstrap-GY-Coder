@@ -11,7 +11,6 @@ JS,CSS,HTML,Bootstrap (https://getbootstrap.com/)
 ![](ezgif.com-gif-maker.gif)
 
 
-
 ![Thankyou GifGIF](https://github.com/gamzeyaylaonu/Bootstrap-GY-Coder/assets/135466558/e10ad6f2-913f-4152-9912-4e0292b2d9a1)
 
 
